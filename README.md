@@ -10,7 +10,7 @@
 
 ### Descargar APK
 
-- 👉 [Descargar app-release.apk](/releases/tag/v1.0.0/MEMO.apk)
+- 👉 [Descargar app-release.apk](/releases/tag/v1.0.0)
 
 ## 🚀 Instalación
 
