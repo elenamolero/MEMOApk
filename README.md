@@ -5,8 +5,8 @@
 ## 📱 Descarga
 
 **Última versión:** v1.0.0  
-**Fecha:** [Fecha actual]  
-**Tamaño:** ~[Tamaño del APK]
+**Fecha:** [30/12/2025]  
+**Tamaño:** ~[63.6 KB]
 
 ### Descargar APK
 
