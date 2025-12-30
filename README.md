@@ -8,8 +8,6 @@
 **Fecha:** [30/12/2025]  
 **Tamaño:** ~[62.1MB]
 
-### Descargar APK
-
 ### 👇 Descargar APK
 
 **[⬇️ Descargar MEMO v1.0.0](https://github.com/elenamolero/MEMOApk/releases/download/v1.0.0/MEMO.apk)**
