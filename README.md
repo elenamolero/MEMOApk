@@ -1,12 +1,12 @@
 # MEMOproject - APK Distribution
 
-> Aplicación móvil para estimulación cognitiva de pacientes con deterioro cognitivo leve.
+> Aplicación móvil para estimulación cognitiva de pacientes con deterioro cognitivo leve y moderado (GDS <=5).
 
 ## 📱 Descarga
 
 **Última versión:** v1.0.0  
 **Fecha:** [30/12/2025]  
-**Tamaño:** ~[63.6 KB]
+**Tamaño:** ~[62.1MB]
 
 ### Descargar APK
 
@@ -20,7 +20,7 @@ O desde la página de [Releases](https://github.com/elenamolero/MEMOApk/releases
 
 ### Requisitos
 - Android 8.0 (API 26) o superior
-- ~100 MB de espacio libre
+- ~150 MB de espacio libre
 
 ### Pasos para instalar
 
@@ -49,7 +49,7 @@ MEMOproject es una aplicación diseñada para:
 ## 📋 Características
 
 - Actividades interactivas con imágenes, audio y video
-- Tests adaptativos según rendimiento
+- Actividades personalizables según rendimiento
 - Historial de progreso detallado
 - Notificaciones en tiempo real
 - Interfaz accesible para todos los públicos
@@ -57,7 +57,7 @@ MEMOproject es una aplicación diseñada para:
 ## 🔐 Privacidad y Seguridad
 
 - Datos encriptados en tránsito
-- Sin almacenamiento de datos personales innecesario
+- Sin almacenamiento de datos personales innecesarios
 - Backend seguro con Supabase
 
 ## 🐛 Reportar problemas
@@ -74,7 +74,7 @@ Si encuentras errores o tienes sugerencias:
 ### v1.0.0 (Primera versión)
 - ✅ Sistema de autenticación
 - ✅ Creación de actividades personalizadas
-- ✅ Tests interactivos
+- ✅ Actividades interactivas
 - ✅ Historial y estadísticas
 - ✅ Sistema de notificaciones
 
@@ -90,4 +90,4 @@ Desarrollado como Trabajo Final de Grado por Elena Molero Padilla
 ---
 
 
-**Última actualización:** [Fecha]
+**Última actualización:** [30/12/2025]
