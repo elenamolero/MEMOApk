@@ -4,13 +4,13 @@
 
 ## 📱 Descarga
 
-**Última versión:** v1.0.0  
-**Fecha:** [30/12/2025]  
+**Última versión:** v1.1.0  
+**Fecha:** [10/01/2026]  
 **Tamaño:** ~[62.1MB]
 
 ### 👇 Descargar APK
 
-**[⬇️ Descargar MEMO v1.0.0](https://github.com/elenamolero/MEMOApk/releases/download/v1.0.0/MEMO.apk)**
+**[⬇️ Descargar MEMO v1.1.0](https://github.com/elenamolero/MEMOApk/releases/download/v1.1.0/MEMO.apk)**
 
 O desde la página de [Releases](https://github.com/elenamolero/MEMOApk/releases)
 
