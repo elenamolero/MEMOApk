@@ -88,4 +88,4 @@ Desarrollado como Trabajo Final de Grado por Elena Molero Padilla
 ---
 
 
-**Última actualización:** [30/12/2025]
+**Última actualización:** [10/01/2026]
