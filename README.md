@@ -4,13 +4,13 @@
 
 ## 📱 Descarga
 
-**Última versión:** v1.1.0  
-**Fecha:** [10/01/2026]  
+**Última versión:** v2.0.0  
+**Fecha:** [07/02/2026]  
 **Tamaño:** ~[62.1MB]
 
 ### 👇 Descargar APK
 
-**[⬇️ Descargar MEMO v1.1.0](https://github.com/elenamolero/MEMOApk/releases/download/v1.1.0/MEMO.apk)**
+**[⬇️ Descargar MEMO v2.0.0](https://github.com/elenamolero/MEMOApk/releases/download/v2.0.0/MEMO.apk)**
 
 O desde la página de [Releases](https://github.com/elenamolero/MEMOApk/releases)
 
@@ -67,15 +67,6 @@ Si encuentras errores o tienes sugerencias:
 3. Incluye capturas de pantalla si es posible
 4. Indica tu versión de Android
 
-## 📝 Notas de versión
-
-### v1.0.0 (Primera versión)
-- ✅ Sistema de autenticación
-- ✅ Creación de actividades personalizadas
-- ✅ Actividades interactivas
-- ✅ Historial y estadísticas
-- ✅ Sistema de notificaciones
-
 ## 💻 Desarrollo
 
 - **Tecnología:** Flutter + Dart
@@ -84,8 +75,9 @@ Si encuentras errores o tienes sugerencias:
 ## 👥 Equipo
 
 Desarrollado como Trabajo Final de Grado por Elena Molero Padilla
+Tutores: David Cáceres Gómez y José Manuel Alcalde Llergo
 
 ---
 
 
-**Última actualización:** [10/01/2026]
+**Última actualización:** [07/02/2026]
